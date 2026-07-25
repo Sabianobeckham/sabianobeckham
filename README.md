@@ -4,7 +4,7 @@ I'm an Information Technology student at Maseno University with a growing intere
 
 What I'm learning
 
-- AWS Cloud Practitioner
+- AWS Cloud Practitioner certified
 - Linux fundamentals
 - Git & GitHub
 - Cloud Computing
